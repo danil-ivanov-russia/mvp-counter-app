@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Счётчик</string>
+    <string name="main_decrementButton">-</string>
+    <string name="main_incrementButton">+</string>
+    <string name="main_resetButton">Сброс</string>
+    <string name="main_placeholderNumber">00000</string>
+    <string name="main_clicksPerSecond">Кликов в секунду: %1$s</string>
+</resources>
